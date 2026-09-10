@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+*.local
+.env
+.env.*
+tsconfig.tsbuildinfo
+
+# Saved game progress (local server store)
+data/rooms.json
+
+# DELETE before public: third-party question seed
+# data/decks/

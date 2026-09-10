@@ -1,0 +1,8 @@
+node_modules
+dist
+.git
+data/rooms.json
+*.local
+.env
+.env.*
+tsconfig.tsbuildinfo

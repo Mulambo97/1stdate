@@ -1,0 +1,617 @@
+{
+  "title": "Original",
+  "private": true,
+  "deleteBeforePublic": true,
+  "source": "https://quizlet.com/au/837252479/how-deep-will-you-go-flash-cards/",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Si tu avais le choix, avec quelle personne morte ou vivante aimerais-tu partager un dîner ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 2,
+      "question": "Avant de passer un appel, est-ce que tu répètes ce que tu vas dire ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 3,
+      "question": "Aimerais-tu être célèbre ? De quelle façon ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 4,
+      "question": "À quoi ressemblerait une journée parfaite pour toi ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 5,
+      "question": "Quand as-tu chanté pour quelqu'un pour la dernière fois ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 6,
+      "question": "Tu penses que j'aime lire ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 7,
+      "question": "Si tu pouvais vivre jusqu'à 90 ans et choisir entre l'esprit ou le corps d'un·e trentenaire, que choisirais-tu ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 8,
+      "question": "Dessine ton souvenir préféré avec moi. Comparez.",
+      "level": "JOKER",
+      "depth": "wildcard"
+    },
+    {
+      "id": 9,
+      "question": "As-tu une intuition secrète sur la façon dont tu mourras ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 10,
+      "question": "Nomme 3 choses que tu penses qu'on a en commun.",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 11,
+      "question": "Dans notre relation, de quoi es-tu le plus reconnaissant·e ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 12,
+      "question": "Selon toi, quelle carrière me conviendrait — autre que mon métier actuel ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 13,
+      "question": "Quelle est, selon toi, ta caractéristique la plus déterminante ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 14,
+      "question": "Tu as 5 minutes : raconte-moi ta vie en autant de détails que possible.",
+      "level": "JOKER",
+      "depth": "wildcard"
+    },
+    {
+      "id": 15,
+      "question": "Si tu pouvais te réveiller demain avec une qualité ou une capacité en plus, laquelle serait-ce ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 16,
+      "question": "Quelle est ta plus grande réussite ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 17,
+      "question": "Qu'est-ce que tu aimes chez toi ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 18,
+      "question": "Tu penses que j'étais populaire au lycée ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 19,
+      "question": "J'ai l'air d'aimer la nourriture épicée ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 20,
+      "question": "Y a-t-il quelque chose que tu considères trop sérieux pour en plaisanter ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 21,
+      "question": "Ta maison brûle avec tout ce que tu possèdes. Une fois tes proches et animaux en sécurité, quel objet sauves-tu ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 22,
+      "question": "Qui admires-tu ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 23,
+      "question": "Quelle expression aimerais-tu que les gens arrêtent de dire ?",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 24,
+      "question": "D'après ce que tu sais déjà de moi, donne-moi une recommandation Netflix.",
+      "level": "Niveau 1",
+      "depth": 1
+    },
+    {
+      "id": 25,
+      "question": "Si tu pouvais changer quelque chose à la façon dont tu as été élevé·e, ce serait quoi ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 26,
+      "question": "Si une boule de cristal pouvait te dire n'importe quoi sur ta vie, ton avenir ou autre, que voudrais-tu savoir ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 27,
+      "question": "Prenez un selfie ensemble.",
+      "level": "JOKER",
+      "depth": "wildcard"
+    },
+    {
+      "id": 28,
+      "question": "Y a-t-il quelque chose que tu veux dans la vie mais que tu as peur de faire ? Qu'est-ce qui te retient ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 29,
+      "question": "Qu'est-ce que tu valeurs le plus dans une amitié ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 30,
+      "question": "Quel est ton souvenir le plus précieux ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 31,
+      "question": "Quel est ton souvenir le plus terrible ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 32,
+      "question": "Si tu savais qu'il te reste un an à vivre, sans exception, que ferais-tu différemment ? Pourquoi ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 33,
+      "question": "Quel rôle jouent l'amour et l'affection dans ta vie ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 34,
+      "question": "À tour de rôle, partagez quelque chose que vous considérez comme une qualité positive de l'autre — 3 chacun·e.",
+      "level": "JOKER",
+      "depth": "wildcard"
+    },
+    {
+      "id": 35,
+      "question": "Quel compliment compte plus pour toi que la plupart des gens ne le croient ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 36,
+      "question": "À quel point ta famille est-elle proche et chaleureuse ? En quoi diffère-t-elle de celle que tu espères créer ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 37,
+      "question": "Comment te sens-tu par rapport à ta relation avec tes parents ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 38,
+      "question": "Quelles sont, selon toi, nos similitudes les plus importantes ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 39,
+      "question": "Parmi toutes les personnes que tu connais, le décès de qui t'impacterait le plus ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 40,
+      "question": "Fais trois vraies phrases en « je », ex. « Je me sens connecté·e ».",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 41,
+      "question": "Quelle a été ta première impression de moi ? Comment a-t-elle changé ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 42,
+      "question": "Finis la phrase : « J'aimerais avoir quelqu'un avec qui je pourrais partager… »",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 43,
+      "question": "Qu'est-ce qui te paraît étrange ou peu familier chez moi ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 44,
+      "question": "Sur quoi m'as-tu déjà menti ? Pourquoi ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 45,
+      "question": "Quel est ton trait le moins préféré chez toi ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 46,
+      "question": "Si tu me faisais une playlist, quelle chanson serait la première ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 47,
+      "question": "Lâche le résultat : partage quelque chose pour laquelle tu es reconnaissant·e maintenant.",
+      "level": "JOKER",
+      "depth": "wildcard"
+    },
+    {
+      "id": 48,
+      "question": "Quel est le plus grand obstacle que tu aies surmonté ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 49,
+      "question": "Selon toi, quel est mon super-pouvoir dans la vraie vie ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 50,
+      "question": "Sur quoi as-tu menti à tes parents la dernière fois ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 51,
+      "question": "Quand t'es-tu senti·e chanceux·se d'être toi pour la dernière fois ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 52,
+      "question": "Quelle est ma qualité la plus attirante qui n'est pas physique ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 53,
+      "question": "Si tu pouvais écrire une lettre à ton moi plus jeune avant qu'on se rencontre, que voudrais-tu qu'il·elle sache ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 54,
+      "question": "Qu'est-ce qui t'excite le plus aujourd'hui ? Grand ou petit.",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 55,
+      "question": "Selon toi, de quoi ton moi plus jeune avait-il·elle besoin d'entendre ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 56,
+      "question": "Comment aimerais-tu être perçu·e ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 57,
+      "question": "Qu'est-ce qui te surprend chez moi ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 58,
+      "question": "Comment quelqu'un gagne-t-il ta vulnérabilité ?",
+      "level": "Niveau 2",
+      "depth": 2
+    },
+    {
+      "id": 59,
+      "question": "Si tu allais devenir un·e ami·e proche pour moi, que devrais-je savoir ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 60,
+      "question": "Dessinez vos émotions actuelles et comparez.",
+      "level": "JOKER",
+      "depth": "wildcard"
+    },
+    {
+      "id": 61,
+      "question": "Partage un moment embarrassant de ta vie récente.",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 62,
+      "question": "Suis-je comme tu t'y attendais ? Pourquoi ou pourquoi pas ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 63,
+      "question": "Dis-moi quelque chose hors de ta zone de confort.",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 64,
+      "question": "Quand as-tu pleuré pour la dernière fois ? Pourquoi ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 65,
+      "question": "Décris ton pire chagrin d'amour. Qu'est-ce qu'il t'a appris ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 66,
+      "question": "Selon toi, de quoi ai-je besoin de lâcher prise ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 67,
+      "question": "Comment puis-je le mieux être là pour toi dans ce chapitre de ta vie ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 68,
+      "question": "Qu'est-ce que tu essayes de te prouver à toi-même ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 69,
+      "question": "Est-ce que je t'ai déjà blessé·e ? Comment ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 70,
+      "question": "Quelle chanson te fait penser à moi ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 71,
+      "question": "Si tu mourais ce soir sans pouvoir communiquer avec personne, que regretterais-tu de ne pas m'avoir dit ? Pourquoi ne me l'as-tu pas dit ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 72,
+      "question": "Quel trait de personnalité hérité de tes parents aimerais-tu ne pas avoir ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 73,
+      "question": "Quel trait de personnalité hérité de tes parents es-tu content·e d'avoir ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 74,
+      "question": "Selon toi, quelle est la partie la plus difficile d'aimer… toi ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 75,
+      "question": "Qu'est-ce que ton moi plus jeune ne croirait pas de ta vie aujourd'hui ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 76,
+      "question": "Quelle est la pire douleur non physique que tu aies ressentie ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 77,
+      "question": "Selon toi, que devrais-je savoir sur moi-même sans en avoir conscience ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 78,
+      "question": "Comment penses-tu qu'on se complète ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 79,
+      "question": "Selon toi, quelle est une chose que je pourrais faire pour améliorer radicalement ma vie ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 80,
+      "question": "Selon toi, quelle est ma plus grande faiblesse ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 81,
+      "question": "D'après ce que tu as appris aujourd'hui, ta perception de moi a-t-elle changé ? Comment ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 82,
+      "question": "Quel serait le cadeau parfait pour toi ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 83,
+      "question": "Qu'est-ce qui te ferait te sentir plus proche de moi ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 84,
+      "question": "Comment me décrirais-tu à quelqu'un qui ne me connaît pas ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 85,
+      "question": "Penses-tu qu'on s'est rencontrés pour une raison ? Laquelle ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 86,
+      "question": "Avoue quelque chose.",
+      "level": "JOKER",
+      "depth": "wildcard"
+    },
+    {
+      "id": 87,
+      "question": "Selon toi, quelle est ma plus grande peur ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 88,
+      "question": "Selon toi, de quoi ai-je besoin d'entendre maintenant ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 89,
+      "question": "Quand as-tu dit « je t'aime » pour la dernière fois… et vraiment pensé ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 90,
+      "question": "Quelle leçon retiendras-tu de notre conversation ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 91,
+      "question": "Sur quoi me ferais-tu confiance pour un conseil ? Pourquoi ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 92,
+      "question": "Écrivez-vous un message, échangez, et ouvrez-le après vous être quittés.",
+      "level": "JOKER",
+      "depth": "wildcard"
+    },
+    {
+      "id": 93,
+      "question": "Quand ce jeu sera fini, de quoi voudras-tu en savoir plus ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 94,
+      "question": "Penses-tu que tout le monde a une vocation ? Penses-tu que j'ai trouvé la mienne ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 95,
+      "question": "Comment puis-je ajouter plus de bonheur dans ta vie ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 96,
+      "question": "Y a-t-il une clôture que tu n'as jamais eue ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 97,
+      "question": "À quelles questions avais-tu le plus peur de répondre ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 98,
+      "question": "Quelle de mes réponses t'a rendu·e heureux·se ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 99,
+      "question": "Qu'est-ce que cette conversation t'a appris sur toi-même ?",
+      "level": "Niveau 3",
+      "depth": 3
+    },
+    {
+      "id": 100,
+      "question": "Te sens-tu différemment à mon égard qu'au début de ce jeu ?",
+      "level": "DERNIÈRE QUESTION",
+      "depth": "finale"
+    }
+  ],
+  "id": "original",
+  "subtitle": "Le deck profond classique",
+  "levels": [
+    "Niveau 1",
+    "Niveau 2",
+    "Niveau 3",
+    "JOKER",
+    "DERNIÈRE QUESTION"
+  ]
+}

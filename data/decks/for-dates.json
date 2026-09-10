@@ -1,0 +1,617 @@
+{
+  "id": "for-dates",
+  "title": "Premier rendez-vous",
+  "subtitle": "Brise-glace, confidences et profondeur — pour quelqu'un qui te plaît",
+  "private": true,
+  "deleteBeforePublic": true,
+  "source": "Stack originale en français, structure inspirée de For Dates.",
+  "levels": [
+    "Brise-glace",
+    "Confidences",
+    "En profondeur",
+    "DÉFI",
+    "DERNIÈRE QUESTION"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quelle est ta première impression honnête de moi jusqu'ici ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 2,
+      "question": "Quel petit détail as-tu déjà remarqué chez moi ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 3,
+      "question": "À quoi ressemble un vraiment bon rendez-vous pour toi ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 4,
+      "question": "Tu es plutôt en avance, à l'heure, ou fashionably late ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 5,
+      "question": "Quelle est ta commande réflexe quand tu es nerveux·se ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 6,
+      "question": "Tu préfères une soirée calme ou un endroit avec de l'énergie ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 7,
+      "question": "Qu'est-ce que tu espères secrètement ressentir ce soir ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 8,
+      "question": "Quel emoji résumerait ta vie amoureuse en ce moment ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 9,
+      "question": "Quel green flag cherches-tu assez tôt ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 10,
+      "question": "Qu'est-ce qui est un soft no pour toi sur les premiers rendez-vous ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 11,
+      "question": "Si on n'avait qu'une heure ensemble, comment voudrais-tu la passer ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 12,
+      "question": "De quoi es-tu bizarrement passionné·e, sans prise de tête ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 13,
+      "question": "Tu flirtes plutôt avec les mots, les taquineries, ou l'attention discrète ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 14,
+      "question": "Quel est le plus beau compliment que tu aies reçu en rendez-vous ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 15,
+      "question": "Quelle chanson jouerait si cette soirée avait une bande-son ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 16,
+      "question": "Café, thé, ou quelque chose de plus fort quand tu t'ouvres ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 17,
+      "question": "Comment aimes-tu qu'on te montre de l'intérêt ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 18,
+      "question": "Qu'est-ce qui te fait rire quand tu t'y attends le moins ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 19,
+      "question": "Tu es plutôt du genre à planifier, ou à voir où ça mène ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 20,
+      "question": "Où aimerais-tu emmener quelqu'un qui te plaît ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 21,
+      "question": "Qu'est-ce que tu remarques en premier chez quelqu'un qui te plaît ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 22,
+      "question": "Quelle question aimerais-tu qu'on pose plus souvent en rendez-vous ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 23,
+      "question": "Tu écris tout au long de la journée, ou par vagues ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 24,
+      "question": "Ton comfort food après une longue semaine ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 25,
+      "question": "Qu'est-ce qui te ferait m'écrire en premier demain ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 26,
+      "question": "Quelle petite habitude rend quelqu'un plus attirant·e à tes yeux ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 27,
+      "question": "Si ce rendez-vous avait un titre, lequel serait-ce pour l'instant ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 28,
+      "question": "De quoi es-tu fier·ère, alors que ça sort rarement dans une conversation ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 29,
+      "question": "Tu aimes les surprises, ou tu préfères être prévenu·e ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 30,
+      "question": "Quelle activité de rendez-vous est la plus sous-estimée ?",
+      "level": "Brise-glace",
+      "depth": 1
+    },
+    {
+      "id": 31,
+      "question": "Comment es-tu d'habitude quand tu commences à aimer quelqu'un ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 32,
+      "question": "Qu'est-ce que tes ami·es savent de toi que tes dates ne savent en général pas ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 33,
+      "question": "Comment ton passé influence-t-il ta façon de dater aujourd'hui ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 34,
+      "question": "Que penseraient tes parents de moi après dix minutes ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 35,
+      "question": "Quelle peur apportes-tu dans le dating, et que tu essayes de dépasser ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 36,
+      "question": "La dernière fois que tu as eu des papillons — et pourquoi ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 37,
+      "question": "Qu'est-ce que tu as déjà fait semblant d'accepter en rendez-vous ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 38,
+      "question": "Qu'est-ce qui te fait te retirer, même quand quelqu'un te plaît ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 39,
+      "question": "Quelle petite insécurité espères-tu qu'on traite avec douceur ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 40,
+      "question": "As-tu déjà ghosté ou été ghosté·e — qu'est-ce que ça t'a appris ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 41,
+      "question": "À quoi ressemble la sécurité émotionnelle pour toi ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 42,
+      "question": "Quelle histoire d'enfance a façonné ta façon d'aimer ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 43,
+      "question": "De quoi es-tu le plus protecteur·rice au début d'une connexion ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 44,
+      "question": "De quoi es-tu en train de guérir en ce moment ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 45,
+      "question": "Comment agis-tu quand tu essayes de ne pas avoir l'air trop intéressé·e ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 46,
+      "question": "Quel schéma de dating es-tu en train de changer activement ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 47,
+      "question": "Quel compliment as-tu du mal à croire ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 48,
+      "question": "Qu'est-ce que tu as envie de dire ce soir, mais que tu n'as pas encore dit ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 49,
+      "question": "Comment sais-tu que tu commences à avoir des sentiments ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 50,
+      "question": "Que signifie concrètement « prendre son temps » pour toi ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 51,
+      "question": "Quelle idée fausse les gens se font de toi au premier abord ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 52,
+      "question": "Quelle est la chose la plus gentille qu'un·e ex ait faite — sans le drama ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 53,
+      "question": "Qu'est-ce que tu cherches et que tu n'as pas encore trouvé ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 54,
+      "question": "Quelle limite tu ignorais avant, et que tu ne franchiras plus ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 55,
+      "question": "Quand te sens-tu le plus toi-même avec quelqu'un de nouveau ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 56,
+      "question": "Qu'as-tu dépassé dans les relations ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 57,
+      "question": "Qu'est-ce qui te ferait te sentir choisi·e, pas seulement apprécié·e ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 58,
+      "question": "Quel espoir secret as-tu pour nous après ce soir ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 59,
+      "question": "Comment gères-tu la jalousie — honnêtement ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 60,
+      "question": "Quelle question aurais-tu aimé qu'on te pose plus tôt ?",
+      "level": "Confidences",
+      "depth": 2
+    },
+    {
+      "id": 61,
+      "question": "Pour quel genre d'amour es-tu vraiment prêt·e ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 62,
+      "question": "Qu'est-ce qui pourrait gâcher une belle chose pour toi, même si le reste est juste ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 63,
+      "question": "Où te sens-tu encore invisible dans ta vie ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 64,
+      "question": "De quoi as-tu le plus peur que je pense, si tu es totalement honnête ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 65,
+      "question": "À quoi ressemble « pour toujours » dans ton imagination — si tu te laisses imaginer ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 66,
+      "question": "Quelle part de toi caches-tu jusqu'à ce que tu fasses confiance ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 67,
+      "question": "Si ça devenait réel, de quoi aurais-tu besoin de ma part pour te sentir en sécurité ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 68,
+      "question": "Quelle leçon d'un chagrin d'amour tu ne veux plus jamais réapprendre ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 69,
+      "question": "Qu'est-ce qui te ferait te sentir profondément respecté·e en rendez-vous ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 70,
+      "question": "De quelle performance es-tu fatigué·e dans le dating ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 71,
+      "question": "Que voudrais-tu que je retienne de toi dans un an ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 72,
+      "question": "Comment veux-tu être aimé·e quand tu es au pire ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 73,
+      "question": "Que signifie la loyauté pour toi, concrètement — pas en théorie ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 74,
+      "question": "Qu'est-ce que tu ne partagerais qu'avec quelqu'un pour qui tu tombes ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 75,
+      "question": "Si on continuait à se voir, de quelle conversation faudrait-il parler tôt ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 76,
+      "question": "Qu'est-ce qui te fait plus peur : être vulnérable, ou ne jamais être vraiment connu·e ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 77,
+      "question": "Qu'est-ce qui te ferait te sentir assez en sécurité pour rester ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 78,
+      "question": "Quel rêve d'avenir a besoin de la bonne personne à tes côtés ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 79,
+      "question": "Comment veux-tu que le conflit se vive entre deux personnes qui s'aiment ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 80,
+      "question": "Qu'espères-tu que ce soir prouve comme possible ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 81,
+      "question": "Que regretterais-tu de ne pas avoir dit si on ne se parlait plus jamais ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 82,
+      "question": "Où as-tu encore besoin de patience de la part de quelqu'un qui t'aime bien ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 83,
+      "question": "À quoi ressemble « la maison » chez une personne ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 84,
+      "question": "De quoi serais-tu fier·ère dans ta façon d'être ce soir ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 85,
+      "question": "Si je ne pouvais comprendre qu'une chose de ton cœur, laquelle devrait-ce être ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 86,
+      "question": "Quel·le partenaire es-tu en train de devenir — et qu'est-ce qui demande encore du travail ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 87,
+      "question": "Quelle est la chose la plus courageuse que tu pourrais me dire maintenant ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 88,
+      "question": "Comment sauras-tu si ça vaut le coup d'aller plus loin ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 89,
+      "question": "Que veux-tu qu'on ressente à la fin de cette conversation ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 90,
+      "question": "Si ce soir n'avait qu'un seul enseignement honnête, lequel devrait-ce être ?",
+      "level": "En profondeur",
+      "depth": 3
+    },
+    {
+      "id": 91,
+      "question": "Gardez le contact visuel 20 secondes sans détourner le regard, puis dites la première chose vraie qui monte.",
+      "level": "DÉFI",
+      "depth": "wildcard"
+    },
+    {
+      "id": 92,
+      "question": "Faites-vous un compliment qui n'a rien à voir avec le physique.",
+      "level": "DÉFI",
+      "depth": "wildcard"
+    },
+    {
+      "id": 93,
+      "question": "Montrez la photo de votre téléphone qui représente le mieux votre humeur actuelle — sans chercher la parfaite.",
+      "level": "DÉFI",
+      "depth": "wildcard"
+    },
+    {
+      "id": 94,
+      "question": "Écrivez une phrase sur ce soir, échangez, et lisez-les à voix haute.",
+      "level": "DÉFI",
+      "depth": "wildcard"
+    },
+    {
+      "id": 95,
+      "question": "À tour de rôle, nommez trois choses qui vous rendent curieux·se chez l'autre.",
+      "level": "DÉFI",
+      "depth": "wildcard"
+    },
+    {
+      "id": 96,
+      "question": "Décrivez l'ambiance de ce rendez-vous avec seulement trois mots chacun·e.",
+      "level": "DÉFI",
+      "depth": "wildcard"
+    },
+    {
+      "id": 97,
+      "question": "Montrez-vous une chanson qui ressemble à ce moment — écoutez 30 secondes.",
+      "level": "DÉFI",
+      "depth": "wildcard"
+    },
+    {
+      "id": 98,
+      "question": "Posez une question de suivi sur la dernière réponse que vous avez entendue — allez plus loin exprès.",
+      "level": "DÉFI",
+      "depth": "wildcard"
+    },
+    {
+      "id": 99,
+      "question": "Terminez ce tour en disant une chose pour laquelle vous êtes reconnaissant·e ce soir.",
+      "level": "DÉFI",
+      "depth": "wildcard"
+    },
+    {
+      "id": 100,
+      "question": "Après tout ce qu'on s'est dit, te sens-tu différemment à mon égard qu'au début — et comment ?",
+      "level": "DERNIÈRE QUESTION",
+      "depth": "finale"
+    }
+  ]
+}
