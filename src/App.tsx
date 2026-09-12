@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react'
 import { deckOptions, getDeckTitle, getQuestion } from './questions'
+import SoloPlay from './SoloPlay'
 import type { DeckId } from './types'
 import { useRoom } from './useRoom'
 
@@ -42,6 +43,7 @@ export default function App() {
   const [joinCode, setJoinCode] = useState('')
   const [mode, setMode] = useState<'home' | 'join'>('home')
   const [deckId, setDeckId] = useState<DeckId>('for-dates')
+  const [solo, setSolo] = useState(false)
 
   const me = room.slot
   const state = room.state
@@ -57,17 +59,8 @@ export default function App() {
     return state.players[other] ?? null
   }, [state, me])
 
-  if (!room.connected) {
-    return (
-      <main className={`shell ${depthTone()}`}>
-        <div className="atmosphere" aria-hidden />
-        <div className="stage">
-          <p className="eyebrow">1stdate</p>
-          <h1 className="brand">On allume la pièce…</h1>
-          {room.error ? <p className="error">{room.error}</p> : null}
-        </div>
-      </main>
-    )
+  if (solo) {
+    return <SoloPlay deckId={deckId} onBack={() => setSolo(false)} />
   }
 
   if (!state || !me) {
@@ -75,11 +68,11 @@ export default function App() {
       <main className={`shell ${depthTone()}`}>
         <div className="atmosphere" aria-hidden />
         <div className="stage home">
-          <p className="eyebrow">Un rendez-vous à distance pour deux</p>
+          <p className="eyebrow">Un rendez-vous, une personne choisit les cartes</p>
           <h1 className="brand">1stdate</h1>
           <p className="lede">
-            Les mêmes cartes. Le même rythme. Répondez à voix haute, regardez-vous, puis allez un
-            peu plus loin.
+            Choisis le niveau — brise-glace, confidences, en profondeur — puis la question que tu
+            poses.
           </p>
 
           <section className="invite">
@@ -130,12 +123,15 @@ export default function App() {
 
             {mode === 'home' ? (
               <div className="actions">
+                <button className="btn btn-primary" onClick={() => setSolo(true)}>
+                  Jouer
+                </button>
                 <button
-                  className="btn btn-primary"
-                  disabled={!name.trim()}
+                  className="btn btn-ghost"
+                  disabled={!name.trim() || !room.connected}
                   onClick={() => room.create(name.trim(), deckId)}
                 >
-                  Créer une invitation
+                  Inviter quelqu’un
                 </button>
                 <button className="btn btn-ghost" onClick={() => setMode('join')}>
                   J’ai un code
@@ -170,7 +166,8 @@ export default function App() {
             )}
 
             <p className="note">
-              La progression est sauvée avec ton code. Reprends avec le même prénom plus tard.
+              Jouer : une personne choisit les questions par niveau. Inviter : toujours 2 personnes
+              par salle.
             </p>
 
             {room.error ? <p className="error">{room.error}</p> : null}
@@ -179,10 +176,10 @@ export default function App() {
           <aside className="ritual">
             <p className="ritual-title">Comme en vrai</p>
             <ul>
-              <li>Ouvre FaceTime ou un appel vidéo à côté</li>
-              <li>Baisse les lumières. Mets le mode Ne pas déranger</li>
-              <li>Répondez à voix haute — n’écrivez pas les réponses</li>
-              <li>Ne précipitez rien. L’important, c’est l’autre</li>
+              <li>Une personne tient le téléphone et choisit la carte</li>
+              <li>Commence par Brise-glace, puis Confidences, puis En profondeur</li>
+              <li>Lis la question à voix haute — l’autre répond</li>
+              <li>Ne précipite rien. Tu n’as pas à tout finir</li>
             </ul>
           </aside>
         </div>
